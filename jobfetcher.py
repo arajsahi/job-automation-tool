@@ -40,8 +40,7 @@ with open("job_emails.csv", "w", newline="") as csvfile:
     writer.writeheader()
 
     for job in good_jobs:
-        prompt = f"Write a short professional job application email for this role: {job['title']} at {job['company']}. My skills are: {job['matched_skills']}. Keep it under 150 words."
-
+        prompt = f"Write a short professional job application email for this role: {job['title']} at {job['company']}. My name is Araj. My skills are: Python, BeautifulSoup, Flask, Claude API, pandas, CSV, Git, GitHub, Render deployment. I have built a live Nepal news dashboard and a job automation tool. I am a Python developer based in Toronto. Keep it under 150 words."
         message = client.messages.create(
             model="claude-opus-4-6",
             max_tokens=300,
