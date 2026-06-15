@@ -8,12 +8,11 @@ import anthropic
 app_id = os.getenv("ADZUNA_APP_ID")
 app_key = os.getenv("ADZUNA_APP_KEY")
 
-test_cv={
-    "name": "John Smith",
-    "skills": ["python","data entry","excel","customer service","retail"],
-    "job_title":"retail manager"
+test_cv = {
+    "name": "Dipti Prakash Shahi",
+    "skills": ["retail", "management", "SAP", "inventory", "supply chain", "logistics", "team leadership", "merchandising"],
+    "job_title": "produce manager"
 }
-
 url =f"https://api.adzuna.com/v1/api/jobs/ca/search/1"
 
 params ={
