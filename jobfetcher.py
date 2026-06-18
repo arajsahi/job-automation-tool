@@ -3,7 +3,18 @@ import os
 import anthropic
 import csv
 from dotenv import load_dotenv
+import psycopg2
 load_dotenv()
+conn = psycopg2.connect(
+    dbname="mydb",
+    user="arajsahi",
+    host="localhost",
+    port="5432"
+
+
+
+)
+cursor = conn.cursor()
 response =requests.get("https://remotive.com/api/remote-jobs?search=python")
 print(response.status_code)
 jobs = response.json()["jobs"]
@@ -48,6 +59,7 @@ with open("job_emails.csv", "w", newline="") as csvfile:
         )
 
         email_text = message.content[0].text
+        job["email"] = email_text
         writer.writerow({
             "title": job["title"],
             "company": job["company"],
@@ -56,3 +68,16 @@ with open("job_emails.csv", "w", newline="") as csvfile:
             "email": email_text
         })
         print(f"Email generated for: {job['title']} at {job['company']}")
+for job in good_jobs:
+    cursor.execute(
+        "INSERT INTO jobs(title, company, location,email) VALUES (%s,%s,%s,%s)",
+        (job["title"], job["company"],"Remote",job["email"])
+    )
+
+conn.commit()
+conn.close()
+print("Jobs saved to database!")
+
+
+
+

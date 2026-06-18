@@ -1,59 +1,61 @@
 title,company,url,matched_skills,email
-Senior Data Scientist,Lemon.io,https://remotive.com/remote-jobs/data/senior-data-scientist-2090982,"python, flask","**Subject: Application for Senior Data Scientist Position**
+Business Transformation Lead,Expion Health,https://remotive.com/remote-jobs/artificial-intelligence/business-transformation-lead-2090881,"automation, api","Subject: Application for Business Transformation Lead – Expion Health
 
-Dear Hiring Team at Lemon.io,
+Dear Hiring Team,
 
-My name is Araj, and I am a Python developer based in Toronto. I am writing to express my interest in the Senior Data Scientist position.
+I am writing to express my interest in the Business Transformation Lead position at Expion Health.
 
-I bring hands-on experience with Python, pandas, Flask, BeautifulSoup, Git/GitHub, Claude API, and cloud deployment via Render. My recent projects include a **live Nepal news dashboard** that scrapes and displays real-time headlines, and a **job automation tool** that streamlines application workflows — both deployed and functional in production.
+I am a Python developer based in Toronto with hands-on experience building automation tools and data-driven solutions. My technical skills include Python, Flask, pandas, BeautifulSoup, Claude API, Git/GitHub, and cloud deployment on Render.
 
-I am comfortable working with data pipelines, APIs, web scraping, and building end-to-end solutions from development to deployment. I thrive in fast-paced, remote environments and am eager to contribute to Lemon.io's talent network.
+I have built and deployed a live Nepal news dashboard that aggregates real-time data, as well as a job automation tool that streamlines repetitive workflows—both demonstrating my ability to identify inefficiencies and deliver practical, scalable solutions.
 
-I would welcome the opportunity to discuss how my skills align with your needs.
+I am passionate about leveraging technology to drive meaningful business transformation, and I would welcome the opportunity to bring this mindset to Expion Health.
+
+I would love to discuss how my skills and experience align with your team's goals. Thank you for your consideration.
 
 Best regards,
 Araj
-Toronto, Canada"
-iOS Developer,nooro,https://remotive.com/remote-jobs/software-development/ios-developer-1956455,api,"Subject: Application for iOS Developer Position – Araj
-
-Dear Hiring Team at Nooro,
-
-I hope this message finds you well. My name is Araj, a software developer based in Toronto, and I am writing to express my interest in the iOS Developer position.
-
-While my primary experience is in Python development—including Flask, pandas, BeautifulSoup, and the Claude API—I am eager to transition into iOS development and bring my strong programming fundamentals to your team. I have built and deployed live projects, including a Nepal news dashboard and a job automation tool, demonstrating my ability to ship functional products end to end. I am comfortable with Git, GitHub, and cloud deployment via Render.
-
-I am a fast learner, passionate about mobile development, and ready to upskill in Swift and SwiftUI to contribute meaningfully at Nooro.
-
-I would welcome the opportunity to discuss how I can add value to your team.
-
-Best regards,
-Araj"
-Senior Full-stack React Developer,Lemon.io,https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711,"python, flask","**Subject: Application – Senior Full-stack React Developer**
+Toronto, ON"
+Senior Data Scientist,Lemon.io,https://remotive.com/remote-jobs/data/senior-data-scientist-2090982,"python, flask","Subject: Application for Senior Data Scientist Position
 
 Dear Lemon.io Hiring Team,
 
-My name is Araj, and I am a Python developer based in Toronto. I am writing to express my interest in the Senior Full-stack React Developer position.
+My name is Araj, and I am a Python developer based in Toronto. I am writing to express my interest in the Senior Data Scientist position at Lemon.io.
 
-I have hands-on experience building and deploying web applications using Python, Flask, Claude API, pandas, and BeautifulSoup. My recent projects include a live Nepal news dashboard and a job automation tool, both deployed via Render and managed through Git/GitHub.
+I bring hands-on experience with Python, pandas, Flask, BeautifulSoup, Claude API, CSV processing, Git/GitHub, and Render deployment. I have built and deployed a live Nepal news dashboard and a job automation tool, demonstrating my ability to deliver end-to-end data-driven solutions.
 
-While my core strength is in Python and back-end development, I am actively expanding my front-end skills in React and am eager to grow into a full-stack role. I am a fast learner with a strong foundation in building functional, data-driven applications.
+I am passionate about leveraging data and automation to solve real-world problems and am eager to contribute my skills to Lemon.io's innovative team.
 
-I would welcome the opportunity to discuss how my skills and enthusiasm can contribute to your team.
+I would welcome the opportunity to discuss how my experience aligns with your needs. Please find my details attached for your review.
 
-Thank you for your consideration.
+Thank you for your time and consideration.
 
 Best regards,
 Araj
 Toronto, Canada"
-Tech Lead Full-Stack Rails Engineer,Mitre Media,https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746,api,"Subject: Application for Tech Lead Full-Stack Rails Engineer
+iOS Developer,nooro,https://remotive.com/remote-jobs/software-development/ios-developer-1956455,api,"Subject: Application for iOS Developer Position
+
+Dear Hiring Team at Nooro,
+
+My name is Araj, and I am a developer based in Toronto writing to express my interest in the iOS Developer role.
+
+While my primary experience is in Python development—including Flask, pandas, BeautifulSoup, and Claude API integration—I am eager to transition into iOS development. I have built and deployed live projects, including a Nepal news dashboard and a job automation tool, demonstrating my ability to ship functional products end to end. I am comfortable with Git, GitHub, and cloud deployment via Render.
+
+My strong programming fundamentals, project delivery experience, and passion for building user-facing applications position me well to quickly ramp up in Swift and iOS frameworks. I am a fast learner and committed to growing into this role.
+
+I would welcome the opportunity to discuss how I can contribute to your team.
+
+Best regards,
+Araj"
+Tech Lead Full-Stack Rails Engineer,Mitre Media,https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746,api,"Subject: Application – Tech Lead Full-Stack Rails Engineer
 
 Dear Hiring Team at Mitre Media,
 
 My name is Araj, and I am a Python developer based in Toronto writing to express my interest in the Tech Lead Full-Stack Rails Engineer position.
 
-I bring hands-on experience with Python, Flask, BeautifulSoup, Claude API, pandas, Git, and cloud deployment on Render. I have built and deployed a live Nepal news dashboard and a job automation tool, demonstrating my ability to deliver end-to-end solutions independently.
+I bring hands-on experience with Python, Flask, BeautifulSoup, Claude API, pandas, Git, GitHub, and Render deployment. I have built and deployed a live Nepal news dashboard and a job automation tool, demonstrating my ability to deliver end-to-end solutions independently.
 
-While my primary stack is Python, I am eager to expand into Ruby on Rails and full-stack development. My strong fundamentals in web frameworks, API integration, data processing, and version control provide a solid foundation for a smooth transition.
+While my primary stack is Python, I am a fast learner with strong full-stack fundamentals and am committed to rapidly building proficiency in Ruby on Rails. My experience architecting complete applications, integrating APIs, and managing deployments translates directly to this role.
 
 I would welcome the opportunity to discuss how my skills and drive can contribute to your team.
 
@@ -61,4 +63,4 @@ Thank you for your consideration.
 
 Best regards,
 Araj
-Toronto, Canada"
+Toronto, ON"
